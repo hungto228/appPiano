@@ -1,0 +1,2 @@
+rootProject.name='Piano_phantom'
+include ':app'
